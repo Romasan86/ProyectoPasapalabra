@@ -11,7 +11,7 @@ public class Pasapalabra {
   
     public static void main(String[] args) 
     {
-        System.out.println("el Cristian es subnormal ");
+        System.out.println("jjjj");
         
     }
 
